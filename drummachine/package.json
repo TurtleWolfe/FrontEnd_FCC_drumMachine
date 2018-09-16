@@ -2,7 +2,7 @@
   "name": "drummachine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://turtlewolf.github.io/drummachine",
+  "homepage": "https://turtlewolf.github.io/FrontEnd_FCC_drumMachine/",
   "dependencies": {
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
